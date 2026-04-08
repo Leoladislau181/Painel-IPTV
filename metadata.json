@@ -1,0 +1,5 @@
+{
+  "name": "Painel do Revendedor",
+  "description": "Sistema de gestão para revendedores de assinaturas com controle de créditos, clientes, cobranças e relatórios.",
+  "requestFramePermissions": []
+}
